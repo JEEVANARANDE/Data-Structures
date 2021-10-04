@@ -1,0 +1,15 @@
+[2021-10-03 00:31:17,636: INFO: fibonnaci:] 13
+[2021-10-03 00:31:17,637: INFO: fibonnaci:]  number should not be negative number or non integer
+[2021-10-03 00:31:17,637: INFO: fibonnaci:]  number should not be negative number or non integer
+[2021-10-03 00:31:34,168: INFO: recursion:] 6
+[2021-10-03 00:31:34,168: INFO: recursion:] 24
+[2021-10-03 00:31:34,168: INFO: recursion:] 120
+[2021-10-03 00:31:34,169: INFO: recursion:] The number must be an positive integer only!
+[2021-10-04 11:25:59,667: INFO: recursion:] 6
+[2021-10-04 11:25:59,668: INFO: recursion:] 24
+[2021-10-04 11:25:59,668: INFO: recursion:] 120
+[2021-10-04 11:25:59,668: INFO: recursion:] The number must be an positive integer only!
+[2021-10-04 11:27:03,072: INFO: recursion:] 6
+[2021-10-04 11:27:03,073: INFO: recursion:] 24
+[2021-10-04 11:27:03,073: INFO: recursion:] 120
+[2021-10-04 11:27:03,073: INFO: recursion:] The number must be an positive integer only!
